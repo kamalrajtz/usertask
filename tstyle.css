@@ -1,0 +1,54 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+h5
+{
+    margin-top: 20px;
+    font-weight: bold;
+    color: #5f7287
+}
+.rose
+{
+    float: left;
+    color: #5f7287
+}
+.tulip
+{
+    float: right;
+    color: #5f7287
+}
+.email
+{
+    color: red;
+}
+#sell
+{
+    float: right;
+    color: #5f7287
+}
+.tum
+{
+    float: left;
+    color: #5f7287
+}
+.blur
+{
+    background-color: orangered;
+    padding: 9px 15px 9px 15px;
+    border-radius: 7px 7px 7px 7px;
+    box-shadow: 0px 10px 30px black;
+    color: white;
+}
+th
+{
+    font-weight: bold;
+    color: #5f7287;
+}
+tbody
+{
+    color: #5f7287;
+}
