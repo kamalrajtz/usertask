@@ -1,54 +1,133 @@
-*
-{
+* {
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
 }
-h5
-{
+
+h5 {
     margin-top: 20px;
     font-weight: bold;
     color: #5f7287
 }
-.rose
-{
+
+.rose {
     float: left;
     color: #5f7287
 }
-.tulip
-{
+
+.tulip {
     float: right;
     color: #5f7287
 }
-.email
-{
+
+.email {
     color: red;
 }
-#sell
-{
+
+#sell {
     float: right;
     color: #5f7287
 }
-.tum
-{
+
+.tum {
     float: left;
     color: #5f7287
 }
-.blur
-{
+
+.blur {
     background-color: orangered;
     padding: 9px 15px 9px 15px;
     border-radius: 7px 7px 7px 7px;
     box-shadow: 0px 10px 30px black;
     color: white;
 }
-th
-{
+
+th {
     font-weight: bold;
     color: #5f7287;
 }
-tbody
-{
+
+tbody {
     color: #5f7287;
+}
+
+.demo {
+    background-color: #00e77b;
+    color: white;
+    padding: 8px 0px 8px 0px;
+    text-align: center;
+    margin-bottom: 60px;
+    width: 50%;
+    border-radius: 5px 5px 5px 5px;
+    font-weight: bolder;
+}
+
+.demo h6 {
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+#right {
+    padding-top: 30px;
+}
+
+#bgimg {
+    padding-right: 0;
+    width: 300px;
+}
+
+#right {
+    padding: 10px 0px 10px 0px;
+    width: 600px;
+}
+
+#txt {
+    margin-top: 110px;
+    text-align: center;
+}
+
+.fa-facebook-f,
+.fa-instagram,
+.fa-linkedin-in,
+.fa-twitter
+ {
+    color: white;
+    background-color: lightgray;
+    background-size: 50px;
+    padding: 5px;
+    border-radius: 10px;
+    clip-path:circle();
+    margin: 5px;
+}
+
+.form-group label {
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+div .form-group {
+    margin-bottom: 0;
+}
+
+textarea .form-control {
+    height: 30px;
+}
+input,
+input::-webkit-input-placeholder {
+    font-size: 14px;
+}
+.btn-secondary
+{
+    color: white;
+    background-color: #00e77b;
+    border-color: #00e77b;
+}
+#down h6
+{
+    font-size: 11px;
+}
+#gap
+{
+    padding-top:30px;
 }
